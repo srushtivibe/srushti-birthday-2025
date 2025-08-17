@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/srushti-birthday-2025/static/css/main.9ba88c8d.css",
-    "main.js": "/srushti-birthday-2025/static/js/main.260d21be.js",
+    "main.css": "/srushti-birthday-2025/static/css/main.a292753f.css",
+    "main.js": "/srushti-birthday-2025/static/js/main.3f6272c5.js",
     "static/js/453.9b11401a.chunk.js": "/srushti-birthday-2025/static/js/453.9b11401a.chunk.js",
     "index.html": "/srushti-birthday-2025/index.html",
-    "main.9ba88c8d.css.map": "/srushti-birthday-2025/static/css/main.9ba88c8d.css.map",
-    "main.260d21be.js.map": "/srushti-birthday-2025/static/js/main.260d21be.js.map",
+    "main.a292753f.css.map": "/srushti-birthday-2025/static/css/main.a292753f.css.map",
+    "main.3f6272c5.js.map": "/srushti-birthday-2025/static/js/main.3f6272c5.js.map",
     "453.9b11401a.chunk.js.map": "/srushti-birthday-2025/static/js/453.9b11401a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9ba88c8d.css",
-    "static/js/main.260d21be.js"
+    "static/css/main.a292753f.css",
+    "static/js/main.3f6272c5.js"
   ]
 }
