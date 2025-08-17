@@ -397,7 +397,7 @@ const App = () => {
                         <div className="absolute inset-0 bg-gradient-to-t from-black/50 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
                         <div className="absolute bottom-6 left-6 opacity-0 group-hover:opacity-100 transition-opacity duration-300">
                           <p className="text-white font-semibold text-lg">
-                            {['College Days', 'Adventure Trip', 'Birthday Party', 'Coffee Meetup', 'Festival Celebration'][index]}
+                            {['🥰', '😘', '😍', '🤗', '🥰'][index]}
                           </p>
                         </div>
                       </div>

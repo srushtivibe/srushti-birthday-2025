@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/srushti-birthday-2025/static/css/main.9ba88c8d.css",
-    "main.js": "/srushti-birthday-2025/static/js/main.2287a556.js",
+    "main.js": "/srushti-birthday-2025/static/js/main.260d21be.js",
     "static/js/453.9b11401a.chunk.js": "/srushti-birthday-2025/static/js/453.9b11401a.chunk.js",
     "index.html": "/srushti-birthday-2025/index.html",
     "main.9ba88c8d.css.map": "/srushti-birthday-2025/static/css/main.9ba88c8d.css.map",
-    "main.2287a556.js.map": "/srushti-birthday-2025/static/js/main.2287a556.js.map",
+    "main.260d21be.js.map": "/srushti-birthday-2025/static/js/main.260d21be.js.map",
     "453.9b11401a.chunk.js.map": "/srushti-birthday-2025/static/js/453.9b11401a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9ba88c8d.css",
-    "static/js/main.2287a556.js"
+    "static/js/main.260d21be.js"
   ]
 }
