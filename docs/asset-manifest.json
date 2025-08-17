@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/birthday-wishes/static/css/main.5d53597a.css",
-    "main.js": "/birthday-wishes/static/js/main.c902981c.js",
-    "static/js/453.9b11401a.chunk.js": "/birthday-wishes/static/js/453.9b11401a.chunk.js",
-    "index.html": "/birthday-wishes/index.html",
-    "main.5d53597a.css.map": "/birthday-wishes/static/css/main.5d53597a.css.map",
-    "main.c902981c.js.map": "/birthday-wishes/static/js/main.c902981c.js.map",
-    "453.9b11401a.chunk.js.map": "/birthday-wishes/static/js/453.9b11401a.chunk.js.map"
+    "main.css": "/srushti-birthday-2025/static/css/main.5d53597a.css",
+    "main.js": "/srushti-birthday-2025/static/js/main.83184ad4.js",
+    "static/js/453.9b11401a.chunk.js": "/srushti-birthday-2025/static/js/453.9b11401a.chunk.js",
+    "index.html": "/srushti-birthday-2025/index.html",
+    "main.5d53597a.css.map": "/srushti-birthday-2025/static/css/main.5d53597a.css.map",
+    "main.83184ad4.js.map": "/srushti-birthday-2025/static/js/main.83184ad4.js.map",
+    "453.9b11401a.chunk.js.map": "/srushti-birthday-2025/static/js/453.9b11401a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5d53597a.css",
-    "static/js/main.c902981c.js"
+    "static/js/main.83184ad4.js"
   ]
 }
